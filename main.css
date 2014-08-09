@@ -1,0 +1,120 @@
+body {
+    background-image: url('img/bg.jpg');
+    background-color: #ffffff;
+    background-attachment: fixed;
+}
+
+a {
+	color: #000000;
+}
+
+a:hover {
+	color: #949494;
+}
+
+
+
+.dropdown {
+	padding: 0;
+    margin: 0;
+    display: inline;
+}
+
+.dropdown ul {
+    position: absolute;
+    display: none;
+    background-color: #dddddd;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0px 1px 1px #545454;
+}
+
+.dropdown li {
+    position: relative;
+    display: inline;
+}
+
+.dropdown li:hover ul {
+    display: block;
+}
+
+.float_right {
+	float: right;
+}
+
+.header {
+	left: 20px;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+.user_nav {
+	text-align: center;
+	padding-bottom: 16px;
+	padding-top: 10px;
+}
+
+.user_id_image {
+	margin-bottom: -14px;
+}
+
+.container {
+}
+
+.container ._container {
+    margin-left: 10px;
+	margin-right: 8px;
+	margin-top: 10px;
+    background: #dddddd;
+	box-shadow: 0px 1px 1px #545454;
+    overflow: hidden;
+    border-radius: 8px 8px 0 0;
+	padding: 4px;
+}
+
+.container_header {
+	margin: -5px;
+	margin-bottom: 10px;
+	padding: 1px 10px;
+    background: #949494;
+    border-radius: 8px 8px 0 0;
+    box-shadow: 0px 1px 1px #545454;
+}
+
+.text_align_center {
+	text-align: center;
+	width: 100%;
+	margin-left: 8px;
+	margin-top: 10px;   
+}
+
+/* FRONT PAGE */
+.fp_left_column {
+	width: 73%;
+}
+
+.fp_right_column {
+	width: 27%;
+}
+
+/* USER PROFILE */
+.profile_left_column {
+	margin-right: 355px;
+}
+
+.profile_top_right_column {
+	position: fixed;
+	top: 30px;
+	right: 5px;
+	width: 355px;
+}
+.profile_bottom_right_column {
+	position: fixed;
+	bottom: 15px;
+	right: 5px;
+	width: 355px;
+}
+
+/* HELPER CLASSES */
+.float--right {
+	float: right;
+}

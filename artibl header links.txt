@@ -1,0 +1,11 @@
+Search (simple search page that takes entered keywords and matches them to art titles, descriptions, tags and usernames.)
+
+Chat (goes to a simple community IRS chat)
+
+Support 
+(when CLICKED, a dropdown box opens with links for: Donate (donate to the site), Volunteer(apply for staff position [coding or community]), 
+Advertisement(Purchase ads on Artibl), Facebook (the site's FB page))
+
+Help
+(when CLICKED, a dropdown box opens with the following: Terms of Service (the TOS), FAQ (FAQ base), 
+Contact (goes to staff page with the site's e-mail and contact info), Report (report a bug or other problem))

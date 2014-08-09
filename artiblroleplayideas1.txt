@@ -1,0 +1,26 @@
+You Are: this dropdown box let's you effortlessly change your character from a list of one's you have created. Changing your character simply changes the icon, name and hoverbox that is displayed when you comment.
+
+Updates: Tells you when someone comments in one of your worlds (if you have that set), replies to one of your comments, or sends you Mail.
+
+Characters: Characters do not have profile pages, just hoverboxes that appear when you click their icon. 
+The character page shows all of your character's boxes, let's you edit them, and let's you make new or delete characters. (MAX 10)
+
+Worlds: Just a directory to the "Worlds" and "Locations" you have created. (MAX 5 worlds. No limit to locations.) Worlds are just miniforums that may be private or public. 
+Locations are the subtopics inside forums. 
+You are able to edit or delete your worlds and locations here. You can Rename them, pick bgs for each locations, 
+turn on/off updates for those worlds, allow or deny users to create locations in your world,
+delete locations, block users from worlds/locations or change their privacy settings.
+
+They might be like- 
+[Gaen] EDIT
+<east continent> 
+* Cliffside Village (public)
+* Northwood Colony (public)
+* Rockfield Colony (public)
+* Jungle Village (public)
+* Dogan's house (password locked)
+ <west continent> 
+* Ashnikoex (public)
+* Faxikoex (public)
+* Yehlkoex (public)
+

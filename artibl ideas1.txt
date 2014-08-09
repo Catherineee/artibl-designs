@@ -1,0 +1,56 @@
+front page will include 2 'Specials' at any time:
+
+*Donate!
+*Site Contest
+*Featured User
+*Artibl Ad
+*randomely generated Site Funfact:
+
+(these are just static facts)
+ - X/X/XXXX is Artibl's birthday.
+ - Seattle, Washington is Artibl's home base.
+ - 
+
+(these are number statistics)
+ - X new users registered this month.
+ - X art submissions per day on average.
+ - X comments per hour on average.
+ - X % of art submissions are mature.
+ - X is the average age of our users.
+ - 98% of our users are amazing.
+ - X favorites made in the last hour.
+ - X is the average number of watchers per user.
+ - X total users currently registered to artibl.
+ - X % of users live in North America.
+ - X % of our users live outside of North America.
+ - X % of our users are female.
+ - X % of our users are male.
+ - 15% of site facts aren't factual.
+ - $X donated to the site this year
+
+(these stats are user related)
+ - X has the most watchers.
+ - X has the most favorites.
+ - X makes the most comments.
+ - X has the most submissions.
+ - X has the most journals.
+ - X has been here the longest.
+ - X has a birthday today!
+ - X has the most mature submissions.
+ - X has the most literature submissions.
+ - X has the most animation submissions.
+ - X has the most audio submissions.
+ - X has the most culinary submissions.
+ - X has the highest number of pageviews.
+ - X makes the most favorites.
+ - X watches the most users.
+ - You are our most favorite user.
+
+(these will pick a random user on the site to fill the blank)
+ - X has the hardest abs.
+ - X has the most beautiful eyes..
+ - X is the strongest, most independant user who don't need no watchers.
+ - X is the cleverest devil.
+ - X has the grooviest hair.
+ - X has the most questionable fashion sense.
+ - X has the smelliest smell.
