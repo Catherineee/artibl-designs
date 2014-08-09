@@ -12,49 +12,17 @@ a:hover {
 	color: #949494;
 }
 
-
-
-.dropdown {
-	padding: 0;
-    margin: 0;
-    display: inline;
-}
-
-.dropdown ul {
-    position: absolute;
-    display: none;
-    background-color: #dddddd;
-    border-radius: 8px 8px 8px 8px;
-    box-shadow: 0px 1px 1px #545454;
-}
-
-.dropdown li {
-    position: relative;
-    display: inline;
-}
-
-.dropdown li:hover ul {
-    display: block;
-}
-
-.float_right {
-	float: right;
-}
-
-.header {
-	left: 20px;
-	text-align: center;
-	padding-bottom: 5px;
-}
-
 .user_nav {
 	text-align: center;
-	padding-bottom: 16px;
 	padding-top: 10px;
 }
 
-.user_id_image {
-	margin-bottom: -14px;
+ul.user_nav {
+	margin: 0;
+}
+.user_nav li {
+	display: inline;
+	margin-left: 5px;
 }
 
 .container {
@@ -80,6 +48,10 @@ a:hover {
     box-shadow: 0px 1px 1px #545454;
 }
 
+.header {
+	margin-left: 10px;
+}
+
 .text_align_center {
 	text-align: center;
 	width: 100%;
@@ -88,6 +60,11 @@ a:hover {
 }
 
 /* FRONT PAGE */
+.fp_header {
+	text-align: center;
+	padding-bottom: 5px;
+}
+
 .fp_left_column {
 	width: 73%;
 }
@@ -103,10 +80,11 @@ a:hover {
 
 .profile_top_right_column {
 	position: fixed;
-	top: 30px;
+	top: 0px;
 	right: 5px;
 	width: 355px;
 }
+
 .profile_bottom_right_column {
 	position: fixed;
 	bottom: 15px;
@@ -114,7 +92,21 @@ a:hover {
 	width: 355px;
 }
 
+.user_id_image {
+	margin-bottom: -14px;
+}
+
 /* HELPER CLASSES */
 .float--right {
 	float: right;
+}
+
+ul.inline-list {
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+.inline-list li {
+	display: inline;
+	margin-left: 5px;
 }
