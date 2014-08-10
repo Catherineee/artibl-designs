@@ -12,8 +12,6 @@ a:hover {
 	color: #949494;
 }
 
-
-
 .dropdown {
 	padding: 0;
     margin: 0;
@@ -43,7 +41,7 @@ a:hover {
 
 .header {
 	left: 20px;
-	text-align: center;
+	
 	padding-bottom: 5px;
 }
 
